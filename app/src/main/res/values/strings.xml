@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">USD to IDR Converter</string>
+    <string name="welcome_login">Selamat datang,  Silahkan login terlebih dahulu ya!</string>
+    <string name="text_username">Username</string>
+    <string name="username_hint">Masukkan username</string>
+    <string name="text_password">Password</string>
+    <string name="password_hint">Masukkan password</string>
+    <string name="button_login">Login</string>
+    <string name="button_convert"><![CDATA[USD -> IDR]]></string>
+    <string name="button_about">About</string>
+    <string name="button_log_out">Log Out</string>
+    <string name="my_name">ERIK RIO SETIAWAN</string>
+    <string name="usd">USD</string>
+    <string name="edit_text_usd">Masukkan USD</string>
+    <string name="idr">IDR</string>
+    <string name="default_result">0</string>
+    <string name="button_calculate">Calculate</string>
+</resources>
